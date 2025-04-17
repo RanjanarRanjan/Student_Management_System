@@ -45,7 +45,7 @@ The **Student Management System** is a mobile application built specifically for
 ### 🔁 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:RanjanarRanjan/Student_Management_System.git
 cd student-management-system
 
 
