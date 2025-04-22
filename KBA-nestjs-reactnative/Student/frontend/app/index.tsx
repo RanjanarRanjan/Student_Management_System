@@ -14,7 +14,7 @@ export default function LoginScreen() {
         headers: {
           'Content-Type': 'application/json',
         },
-        credentials: 'include', // ✅ includes the cookie in the request
+        credentials: 'include', 
         body: JSON.stringify({ username, password }),
       });
 
